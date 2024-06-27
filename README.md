@@ -50,7 +50,12 @@ plt.show()
 
 ## Visualização dos dados
 
+* Gráfico de barras mostrando a média de quantidade vendas por curso com a indicação da variação dos valores 
+
 ![alt text](grafico.png)
+
+* Grafico de dispersão mostrando a relação de vendas por preço
+
 ![alt text](grafico1.png)
 
 ## Autor
