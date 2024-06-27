@@ -46,7 +46,7 @@ sns.barplot(data = df,
 plt.xticks(rotation = 80)
 plt.show()
 ```
- 
+![alt text](grafico2.png)
 
 ## Visualização dos dados
 
