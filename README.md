@@ -11,6 +11,11 @@ Este projeto de análise de dados foi parte da trilha inicial de Ciência de Dad
 
 ## Sobre o projeto
 
+* **Configuração do Ambiente:**
+1. **Instalar Python:** Certifique-se de ter o Python instalado em sua máquina.
+2. **Instalar Jupyter Notebook:** Utilize o comando `pip install notebook` para instalar o Jupyter Notebook.
+3. **Instalar Bibliotecas:** Utilize o comando `pip install pandas matplotlib seaborn` para instalar as bibliotecas necessárias.
+   
 Para executar o projeto você pode utilizar o jupyter nootebok ou rodar no vscode. As análises são feitas por celulas separadas.
 
 ## Análise
