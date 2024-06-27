@@ -4,10 +4,10 @@ Este projeto de análise de dados foi  como parte da trilha inicial de Ciência 
 
 ## Stack utilizada
 
- *`Python: ` Linguagem de programação para criar os scrips das análises 
- *`Pandas: `  Biblioteca de software criada para a linguagem Python para manipulação e análise de dados
- *`Matplotlib: ` Biblioteca de software para criação de gráficos e visualizações de dados em geral
- *`Seaborn: ` Biblioteca de software para criação de gráficos e visualizações de dados em geral
+ * `Python: ` Linguagem de programação para criar os scrips das análises 
+ * `Pandas: `  Biblioteca de software criada para a linguagem Python para manipulação e análise de dados
+ * `Matplotlib: ` Biblioteca de software para criação de gráficos e visualizações de dados em geral
+ * `Seaborn: ` Biblioteca de software para criação de gráficos e visualizações de dados em geral
 
 ## Sobre o projeto
 
@@ -15,8 +15,8 @@ Para executar o projeto você pode utilizar o jupyter nootebok ou rodar no vscod
 
 ## Análise
 
-Além dos requisitos funcionais do projeto, foi desenvolvido as seguintes análises:
- ` Receita total: ` 
+Além dos requisitos funcionais do projeto, foi desenvolvido as seguintes análises:  
+` Receita total: ` 
 ```python
 # Calculo faturamento e adicionando nova coluna no dataframe com o resultado
 faturamento = df['Preço Unitário'] * df['Quantidade de Vendas']
