@@ -1,6 +1,6 @@
 # Análise Exploratória de Dados
 
-Este projeto de análise de dados foi  como parte da trilha inicial de Ciência de Dados.
+Este projeto de análise de dados foi parte da trilha inicial de Ciência de Dados.
 
 ## Stack utilizada
 
