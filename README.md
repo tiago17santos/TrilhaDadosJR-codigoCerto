@@ -4,18 +4,18 @@ Este projeto de análise de dados foi  como parte da trilha inicial de Ciência 
 
 ## Stack utilizada
 
- `Python: ` Linguagem de programação para criar os scrips das análises 
- `Pandas: `  Biblioteca de software criada para a linguagem Python para manipulação e análise de dados
- `Matplotlib: ` Biblioteca de software para criação de gráficos e visualizações de dados em geral
- `Seaborn: ` Biblioteca de software para criação de gráficos e visualizações de dados em geral
+ *`Python: ` Linguagem de programação para criar os scrips das análises 
+ *`Pandas: `  Biblioteca de software criada para a linguagem Python para manipulação e análise de dados
+ *`Matplotlib: ` Biblioteca de software para criação de gráficos e visualizações de dados em geral
+ *`Seaborn: ` Biblioteca de software para criação de gráficos e visualizações de dados em geral
 
 ## Sobre o projeto
 
-Para executar o projeto, você pode utilizar o jupyter nootebok ou rodar no vscode. As analises são feitas por células separadas.
+Para executar o projeto você pode utilizar o jupyter nootebok ou rodar no vscode. As análises são feitas por celulas separadas.
 
 ## Análise
 
-* Além dos requisitos funcionais do projeto, foi desenvolvido as seguintes análises:
+Além dos requisitos funcionais do projeto, foi desenvolvido as seguintes análises:
  ` Receita total: ` 
 ```python
 # Calculo faturamento e adicionando nova coluna no dataframe com o resultado
@@ -50,10 +50,8 @@ plt.show()
 
 ## Visualização dos dados
 
-`Visualização de dados: ` 
-
 ![alt text](grafico.png)
-![alt text](grafico 1.png)
+![alt text](grafico1.png)
 
 ## Autor
 Desenvolvido por Tiago Alberto
